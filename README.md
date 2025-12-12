@@ -2,7 +2,7 @@
 Hocbigg provides an environment where all learners and contributors can feel safe and welcome. This document outlines our community policies and values.
 # Rules
 * Learn and help others learn.
-* Be kind and courteous to your fellow OSSUnians.
+* Be kind and courteous to your fellow learners.
 * Criticize ideas, not people.
 * Discuss publicly. Refrain from direct messaging people unless it is specifically requested.
 * Ask questions; don't ask to ask. There’s no need to write "Is there anyone that can help me with X?" Just ask about X.
@@ -17,12 +17,6 @@ Hocbigg provides an environment where all learners and contributors can feel saf
 * No spamming, trolling, flaming, or other disruptions of the peace.
 * No inappropriate usernames. Moderators will change your name if it is found to be NSFW or derogatory.
 * No advocating or threatening of any of the above behaviors.
-# Reporting and Moderation
-Moderators can be emailed at hocbigg@proton.me. 
-
-Violation of the terms in this Code of Conduct will result in consequences that will depend on a) the severity of the violation, and b) history of violations. Possible consequences include: temporary mute, being kicked from participation, temporary or permanent banning from all future participation in the community.
-
-If you feel that you have been treated unjustly, you may contact a moderator or community organizer and explain your grievance. Your grievance will be handled by moderator consensus.
 
 # Attribution
 Portions of this Code of Conduct were inspired by the following:
